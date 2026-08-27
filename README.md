@@ -75,6 +75,6 @@ This project was built using:
 2. Make sure Python is installed.
 3. Run the Python file using:
 
-```Author
+## Author
 
    KUNCHE SIVA GANDHI
